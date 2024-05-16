@@ -7,6 +7,7 @@ Hey there! 👋 I'm Yeunha Kim, a software engineer based in Los Angeles. I'm al
 ## About Me
 
 I'm a Full Stack Software Engineer with a knack for turning ideas into reality. I love diving into complex problems and coming up with elegant solutions. 💻✨
+Check out my [portfolio](https://yeunhakim93.github.io/yeunha-portfolio/)!
 
 ### Technical Skills
 
