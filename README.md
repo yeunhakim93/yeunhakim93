@@ -40,4 +40,4 @@ I've been part of some exciting projects where I've:
 
 ### Let's Connect
 
-Feel free to reach out if you want to chat about software, crochet, minecraft, or anything in between. You can find me on [GitHub](https://github.com/yeunhakim93) and [LinkedIn](https://www.linkedin.com/in/yeunhakim93/).
+Feel free to reach out if you want to chat about software, crochet, minecraft, or anything in between. You can find me on [LinkedIn](https://www.linkedin.com/in/yeunhakim93/)!
